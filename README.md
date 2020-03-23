@@ -12,7 +12,7 @@ This repository is ***Zahra Mohammadi***'s submission for _Getting and Cleaning 
 
 **run_analysis.R** performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 
--[x]Merges the training and the test sets to create one data set.
+- [x] Merges the training and the test sets to create one data set.
 -[x]Extracts only the measurements on the mean and standard deviation for each measurement.
 -[x]Uses descriptive activity names to name the activities in the data set
 -[x]Appropriately labels the data set with descriptive variable names.
