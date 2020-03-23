@@ -17,6 +17,7 @@ This repository is ***Zahra Mohammadi***'s submission for _Getting and Cleaning 
 - [x] Uses descriptive activity names to name the activities in the data set
 - [x] Appropriately labels the data set with descriptive variable names.
 - [x] From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-FinalData.txt is the exported final data after going through all the sequences described above.
+
+**FinalData.txt** is the exported final data after going through all the sequences described above.
 
 
