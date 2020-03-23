@@ -3,6 +3,7 @@
 This repository is ***Zahra Mohammadi***'s submission for _Getting and Cleaning Data_ course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
+
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Files
